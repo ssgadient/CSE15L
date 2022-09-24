@@ -1,1 +1,1 @@
-![Image](https://www.github.com/ssgadient/CSE15L/blob/main/index_screenshot.html)
+![Image](https://ssgadient.github.io/CSE15L/index_screenshot.PNG)
