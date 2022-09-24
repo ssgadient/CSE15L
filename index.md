@@ -11,7 +11,7 @@ First CSE15L file!
 2. Item 2
 3. Item 3  
 
-[Link](https://www.google.com)  
+[Google Link](https://www.google.com)  
 
 A change to index.md!
 
