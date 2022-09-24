@@ -14,3 +14,5 @@ First CSE15L file!
 [Link](https://www.google.com)  
 
 A change to index.md!
+
+[Lab Report 1](https://ssgadient.github.io/CSE15L/lab-report-1-week-0.html)
