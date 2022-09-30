@@ -42,7 +42,7 @@ Now that you’ve successfully logged in, let’s test some linux commands:
 ## **Step 4: Moving Files with ```scp```**
 1. One important command to learn is the scp command, which moves files from our host computer to the remote machine. Usage: ```scp <file> <accountname>@ieng6.ucsd.edu:~/```. You will need to enter your password. 
 
-![Image](https://ssgadient.github.io/CSE15L/lab-1/UsingSCP.PNG)
+![Image](https://ssgadient.github.io/CSE15L/lab-1/UsingSCP.png)
 
 2. Verify that the file was transferred by using ssh to log back into the server. 
 
@@ -59,7 +59,7 @@ Usage: ```scp C:\Users\<username>\.ssh\id_rsa.pub <accountname>@ieng6.ucsd.edu:~
 
 ## **Step 6: Optimize Remote Running**
 1. To login: copy and paste in the ```ssh <accountname>@ieng6.ucsd.edu``` command or use the up-arrow key.
-2. To compile and run a java file locally → ```javac <file>.java; java <file>;```
+2. To compile and run a java file locally → ```javac <file>.java; java <file>;```  
 3. To compile and run a java file remotely, use
 
     ```scp <file> <accountname>@ieng6.ucsd.edu:~/<path>```  
