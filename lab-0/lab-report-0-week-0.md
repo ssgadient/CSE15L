@@ -13,6 +13,4 @@ First CSE15L file!
 
 [Google Link](https://www.google.com)  
 
-A change to index.md!
-
 ![Image](https://ssgadient.github.io/CSE15L/lab-0/a_screenshot.PNG)
