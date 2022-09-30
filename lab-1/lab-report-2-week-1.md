@@ -9,7 +9,7 @@
 ## **Step 1: Install Visual Studio Code (VSCode)**
 1. Download the latest version of [Visual Studio Code](https://code.visualstudio.com/) for Windows
 2. Open the downloaded file and follow the installation instructions. When you are finished installing, open VSCode. It should look like the image below.  
-![Image](https://ssgadient.github.io/CSE15L/lab-1/InstallVSCode.PNG)
+[Image](https://ssgadient.github.com/CSE15L/lab-1/InstallingVSCode.html)
 
 ## **Step 2: Remotely Connecting**
 1. Install OpenSSH client. Go to Settings → Apps → Optional Features. Click on Add a Feature, locate OpenSSH client, and install. There is no need to install OpenSSH server. 
