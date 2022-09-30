@@ -44,7 +44,7 @@ Now that you’ve successfully logged in, let’s test some linux commands:
 5. Copy the PUBLIC key to the server’s ssh authorized_keys file using the spc command.  
 Usage: ```scp C:\Users\<username>\.ssh\id_rsa.pub <accountname>@ieng6.ucsd.edu:~/.ssh/authorized_keys```
 6. Verify that you can login without typing a password! 
-![Image](https://ssgadient.github.io/CSE15L/lab-1/SettingUpSSHKeys.PNG)
+![Image](https://ssgadient.github.io/CSE15L/lab-1/SettingUpSSHKeys.png)
 
 ## **Step 6: Optimize Remote Running**
 1. To login: copy and paste in the ```ssh <accountname>@ieng6.ucsd.edu``` command or use the up-arrow key.
