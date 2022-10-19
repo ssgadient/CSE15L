@@ -4,3 +4,6 @@
 [submodule "lab-3"]
 	path = lab-3
 	url = https://github.com/ssgadient/lab3
+[submodule "lab-4"]
+	path = lab-4
+	url = https://github.com/ssgadient/docsearch
