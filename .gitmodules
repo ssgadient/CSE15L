@@ -7,3 +7,6 @@
 [submodule "lab-4"]
 	path = lab-4
 	url = https://github.com/ssgadient/docsearch
+[submodule "lab-7"]
+	path = lab-7
+	url = https://github.com/ssgadient/list-examples-grader
