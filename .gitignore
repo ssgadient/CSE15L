@@ -1,3 +1,4 @@
 *.pdf
 *.PNG
 !/lab-6/*.PNG
+!/lab-8/*.PNG
