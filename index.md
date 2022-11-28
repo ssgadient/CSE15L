@@ -2,4 +2,5 @@
 [Lab Report 1](https://ssgadient.github.io/CSE15L/lab-1/lab-report-1-week-1.html)  
 [Lab Report 2](https://ssgadient.github.io/CSE15L/lab-3/lab-report-2-week-3.html)  
 [Lab Report 3](https://ssgadient.github.io/CSE15L/lab-5/lab-report-3-week-5.html)  
-[Lab Report 4](https://ssgadient.github.io/CSE15L/lab-7/lab-report-4-week-7.html)
+[Lab Report 4](https://ssgadient.github.io/CSE15L/lab-7/lab-report-4-week-7.html)  
+[Lab Report 5](https://ssgadient.github.io/CSE15L/lab-8/lab-report-5-week-9.html)
